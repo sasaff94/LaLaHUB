@@ -1,10 +1,10 @@
 local GUI = loadstring(game:HttpGet("https://raw.githubusercontent.com/bloodball/-back-ups-for-libs/main/aaaa"))()
 
-local UI = GUI:CreateWindow("Panda HUB","")
+local UI = GUI:CreateWindow("LaLa HUB","")
 
 local Tab = Window:NewTab("Auto Farm")
 
-Section:UpdateSection("PD HUB")
+Section:UpdateSection("LaLa HUB")
 
 Section:NewToggle("ToggleText", "ToggleInfo", 
 local placeId = game.PlaceId
